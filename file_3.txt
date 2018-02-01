@@ -1,3 +1,6 @@
 this 
 is
 file 3
+insert line1
+insert line2
+insert line3
